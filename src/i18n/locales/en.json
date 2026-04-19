@@ -1,0 +1,167 @@
+{
+  "common": {
+    "home": "Home",
+    "complaintGenerator": "Draft Ai",
+    "legalGuidance": "Legal Guidance ",
+    "caseResearch": "Your Dashbord",
+    "about": "About us",
+    "getStarted": "Get Started",
+    "search": "Search",
+    "copyright": "All rights reserved.",
+    "disclaimer": "Disclaimer: This platform provides AI-generated information for educational purposes and is not a substitute for professional legal advice.",
+    "contact": "Contact",
+    "quickLinks": "Quick Links",
+    "supportEmail": "support@pocklawyer.in",
+    "location": "New Delhi, India"
+  },
+  "landing": {
+ "hero": {
+  "badge": "⚖️ AI Tools for Citizens & Lawyers",
+  "headline": "AI Legal Tools for Everyone – Built for Lawyers & Citizens",
+  "subheadline": "Draft complaints, get legal guidance, or manage full legal cases with AI-powered dashboard for lawyers.",
+  "ctaGenerate": "Start Drafting",
+  "ctaGuidance": "Creat Account"
+},
+  "problem": {
+  "headline": "Legal Problems Are Complex — For Everyone",
+  "subheadline": "Citizens struggle with legal understanding, while lawyers struggle with managing multiple cases efficiently.",
+  "stat1": "Citizens don’t know how to draft complaints",
+  "stat2": "Confusion about legal procedures",
+  "stat3": "Lawyers manage multiple cases manually",
+  "stat4": "Time-consuming research and documentation"
+},
+ "features": {
+  "headline": "AI Tools for Every Legal Need",
+  "subheadline": "From citizens to professional lawyers — everything in one platform",
+
+  "feat1": {
+    "title": "Drafting with AI",
+    "description": "Generate professional legal complaints and applications instantly."
+  },
+  "feat2": {
+    "title": "Legal Guidance AI",
+    "description": "Chat with AI to understand your legal problem and get step-by-step guidance."
+  },
+  "feat3": {
+    "title": "AI Case Research",
+    "description": "Find similar cases and judgments to strengthen your understanding."
+  },
+  "feat4": {
+    "title": "Lawyer Dashboard",
+    "description": "Manage cases, evidence, hearings and everything in one place."
+  },
+  "feat5": {
+    "title": "AI Case Assistant",
+    "description": "AI continuously analyzes your case and guides you until it is resolved."
+  }
+},
+    "emergency": {
+      "headline": "Know Your Rights & Emergency Help",
+      "subheadline": "In case of emergency, use these official Government of India helpline numbers. Citizen safety is our priority.",
+      "callNow": "Call Now"
+    },
+"cta": {
+  "headline": "Start Using AI for Your Legal Work Today",
+  "subheadline": "Whether you're a citizen or a lawyer — PocketLawyer helps you work smarter.",
+  "button": "Get Started"
+}
+  },
+  "complaint": {
+    "title": "AI Complaint Generator",
+    "subtitle": "Fill in the details below to generate a professionally formatted legal complaint or police application.",
+    "form": {
+      "category": "Complaint Category",
+      "selectCategory": "Select a category",
+      "date": "Incident Date",
+      "location": "Location",
+      "locationPlaceholder": "City, Area",
+      "opposingParty": "Opposing Party Name (If known)",
+      "opposingPartyPlaceholder": "Name of person or entity",
+      "description": "Description of Incident",
+      "descriptionPlaceholder": "Describe exactly what happened in detail...",
+      "evidence": "Evidence Upload (Optional)",
+      "uploadFile": "Upload a file",
+      "dragDrop": "or drag and drop",
+      "fileTypes": "PNG, JPG, PDF up to 10MB",
+      "submit": "Generate Complaint",
+      "generating": "Generating..."
+    },
+    "result": {
+      "draft": "Generated Draft",
+      "copy": "Copy",
+      "print": "Print",
+      "download": "Download as PDF",
+      "empty": "Your generated complaint will appear here after you submit the form."
+    },
+    "categories": {
+      "theft": "Theft / Burglary",
+      "cyber": "Cyber Crime",
+      "fraud": "Fraud / Financial Scam",
+      "harassment": "Harassment / Stalking",
+      "domestic": "Domestic Violence",
+      "property": "Property Dispute",
+      "assault": "Assault / Physical Harm",
+      "other": "Other"
+    }
+  },
+  "guidance": {
+    "title": "Legal Guidance AI",
+    "subtitle": "Get clear explanations of laws and recommended next steps for your legal situation.",
+    "form": {
+      "issueType": "Issue Type",
+      "selectIssue": "Select an issue type",
+      "description": "Describe Your Situation",
+      "descriptionPlaceholder": "Explain your legal problem in detail...",
+      "submit": "Get Guidance",
+      "getting": "Analyzing..."
+    },
+    "result": {
+      "title": "AI Legal Guidance",
+      "empty": "AI-generated legal guidance will appear here after you describe your situation."
+    }
+  },
+  "research": {
+    "title": "AI Case Research",
+    "subtitle": "Search for similar cases, landmark judgments, and legal precedents in India.",
+    "form": {
+      "search": "Search Legal Keywords",
+      "searchPlaceholder": "e.g., 'Supreme Court judgment on privacy', 'Section 498A IPC cases'...",
+      "submit": "Search Cases",
+      "searching": "Researching..."
+    },
+    "result": {
+      "title": "Research Results",
+      "empty": "AI-researched case summaries and legal precedents will appear here."
+    }
+  },
+"about": [
+  {
+    "title": "AI for Everyone",
+    "body": "Citizens can draft complaints and get legal help easily."
+  },
+  {
+    "title": "Lawyer Dashboard",
+    "body": "Complete case management system built for legal professionals."
+  },
+  {
+    "title": "AI Case Assistant",
+    "body": "AI helps lawyers continuously until case resolution."
+  },
+  {
+    "title": "Save Time",
+    "body": "Automate repetitive legal work."
+  },
+  {
+    "title": "Secure Platform",
+    "body": "All data is सुरक्षित and private."
+  },
+  {
+    "title": "All-in-One Platform",
+    "body": "Everything from drafting to case management in one place."
+  }
+],
+  "metadata": {
+    "title": "PocketLawyer – Your AI Legal Assistant in Your Pocket",
+    "description": "Generate legal complaints, understand laws, and research cases instantly using AI. Support for multiple Indian languages."
+  }
+}

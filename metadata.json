@@ -1,0 +1,7 @@
+{
+  "name": "PocketLawyer",
+  "description": "AI-powered legal assistance platform for India. Generate complaints, understand laws, and research cases instantly.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
